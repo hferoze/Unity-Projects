@@ -1,5 +1,5 @@
 Credits:
-- Animations By Maximo
+- Animations By Mixamo
 
 - Low Poly Landscape Essentials By F3VizStudios
 
