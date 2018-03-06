@@ -1,0 +1,3 @@
+Speech To Text for Android
+
+Contains Android Plugin that uses Android's SpeechRecognizer and RecognizerIntent to listen to speech, convert to text and send back to Unity. 
